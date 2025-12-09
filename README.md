@@ -1,1 +1,2 @@
-Prueba
+Topological Data Analysis (TDA) is a framework for extracting global structural information from complex datasets by quantifying their shape in a rigorous mathematical sense.The TDA is not applied upon a continuous object/structure, but upon a finite set of points. In the developmental biology application explored in this project, each of these points esentially correspond to a cell in a developing embryo...
+
